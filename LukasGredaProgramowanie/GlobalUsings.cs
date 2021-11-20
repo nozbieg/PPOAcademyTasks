@@ -1,0 +1,13 @@
+﻿global using System;
+global using System.Linq;
+global using LukasGredaProgramowanie.Exc1;
+global using LukasGredaProgramowanie.Exc10;
+global using LukasGredaProgramowanie.Exc11;
+global using LukasGredaProgramowanie.Exc2;
+global using LukasGredaProgramowanie.Exc3;
+global using LukasGredaProgramowanie.Exc4;
+global using LukasGredaProgramowanie.Exc5;
+global using LukasGredaProgramowanie.Exc6;
+global using LukasGredaProgramowanie.Exc7;
+global using LukasGredaProgramowanie.Exc8;
+global using LukasGredaProgramowanie.Exc9;
